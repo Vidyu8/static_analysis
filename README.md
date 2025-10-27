@@ -26,10 +26,10 @@ The global variable warning (W0603) for stock_data could be considered a false p
 * Pre-commit hooks to run Pylint/Flake8 before each commit
 * Editor integrations (VS Code extensions) for real-time feedback
 * Makefile targets for easy manual execution
-* CI/CD Pipeline:
-	GitHub Actions to run all three tools on every pull request
-	Quality gates - block merges if security issues (Bandit) or low scores (Pylint) detected
-	Automated reporting - post results as PR comments
+* CI/CD Pipeline:</br>
+	GitHub Actions to run all three tools on every pull request</br>
+	Quality gates - block merges if security issues (Bandit) or low scores (Pylint) detected</br>
+	Automated reporting - post results as PR comments</br>
 	Team Process: Score thresholds in CI (e.g., Pylint ≥ 8.0 required)
 
 ## Tangible Improvements Observed
