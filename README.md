@@ -1,6 +1,9 @@
-## Static_analysis
-
 # Static_analysis
+
+## Issue Table
+
+<img width="805" height="772" alt="image" src="https://github.com/user-attachments/assets/028745cc-e970-4f11-a6ab-eb7df823cb16" />
+
 
 ## Easiest vs. Hardest Issues
 
