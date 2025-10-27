@@ -1,0 +1,5 @@
+inventory_system_cleaned.py:1:4: W291 trailing whitespace
+inventory_system_cleaned.py:5:55: W291 trailing whitespace
+inventory_system_cleaned.py:166:29: W291 trailing whitespace
+inventory_system_cleaned.py:171:29: W291 trailing whitespace
+inventory_system_cleaned.py:189:1: W293 blank line contains whitespace
